@@ -11,6 +11,7 @@
 ### **내 방에서도 외롭지 않은 공부를 이어가세요.**
 
 [사각사각 배포링크](https://sagaksagak.site/)</br>
+[사각사각 프로젝트 소개](https://codestates.notion.site/8-DevPull-b31af46ab3a243178a115ff4ebef99d6)</br>
 [사각사각 GitHubClient](https://github.com/codestates/sagaksagak-client/)</br>
 [사각사각 GitHubServer](https://github.com/codestates/sagaksagak-server/)</br></br></br>
 
